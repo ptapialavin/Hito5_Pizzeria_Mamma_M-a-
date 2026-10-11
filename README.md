@@ -1,7 +1,5 @@
 # Pizzería Mamma Mía
 
-#Link del Deploy: (pendiente)
-
 Landing page de una pizzería ficticia, hecha con React y Vite. En este hito se implementó el enrutamiento con React Router: la aplicación ahora tiene varias vistas (inicio, registro, login, carrito, detalle de pizza, perfil y página 404) y se navega entre ellas con enlaces `Link`, sin recargar la página.
 
 Proyecto correspondiente al Hito 5 del módulo de React Router I de Desafío Latam (continuación del Hito 4).
